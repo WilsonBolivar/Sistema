@@ -18,6 +18,7 @@
             <a href="../modelo/modificar.php" class="navbar-brand glyphicon glyphicon-pencil"> MODIFICAR</a>
             <a href="../modelo/eliminar.php" class="navbar-brand glyphicon glyphicon-trash"> ELIMINAR</a>
             <a href="../modelo/consulta.php" class="navbar-brand glyphicon glyphicon-search"> CONSULTA</a>
+            <a href="../modelo/pdf/reporte.php" class="navbar-brand glyphicon glyphicon-list-alt"> REPORTE</a>
         </div>
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
