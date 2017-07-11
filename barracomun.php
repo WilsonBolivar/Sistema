@@ -9,7 +9,8 @@
             <a class="navbar-brand"><img src="img/logo.jpg" width="100" height="50"></a>
             <ul class="nav navbar-nav navbar">
             </ul>
-            <a href="consulta.php" class="navbar-brand glyphicon glyphicon-search"> CONSULTA</a>
+            <a href="buscar.php" class="navbar-brand glyphicon glyphicon-search"> CONSULTA</a>
+            <a href="../modelo/pdf/reporte.php" class="navbar-brand glyphicon glyphicon-list-alt"> REPORTE</a>
         </div>
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
